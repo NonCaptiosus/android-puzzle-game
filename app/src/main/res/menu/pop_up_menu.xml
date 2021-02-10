@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/one"
+        android:title="@string/niveli_pare"/>
+
+    <item
+        android:id="@+id/two"
+        android:title="@string/niveli_dyte"/>
+
+    <item
+        android:id="@+id/three"
+        android:title="@string/niveli_trete"/>
+
+</menu>

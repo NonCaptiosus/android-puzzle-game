@@ -1,0 +1,114 @@
+<resources>
+
+    <string name="app_name">Puzzle</string>
+    <string name="policy_text"> Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Proin et sapien euismod, commodo orci ac, interdum nisi. Duis iaculis ligula vel nibh lacinia tempor.
+        Quisque condimentum tempus lacus, et dapibus ligula ultricies ut. Donec efficitur dolor at ex interdum auctor. Fusce vel aliquam odio, eget volutpat elit.
+        Sed est lacus, euismod eget nisi nec, blandit accumsan nibh. Sed ultricies augue ac mauris posuere porta.
+        Fusce condimentum, mauris non aliquam elementum, nunc est tempor nisi, nec varius lacus odio vel leo. Vivamus luctus varius nisi id condimentum.
+        In hac habitasse platea dictumst. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
+        Donec neque nulla, mattis sit amet ornare ut, fringilla vitae augue.
+        Aenean ut sapien in risus blandit laoreet et sed est.
+        Quisque ullamcorper egestas lobortis. Ut faucibus lorem id arcu pretium volutpat.
+        Pellentesque malesuada lacus, eget porttitor sapien congue at.
+        Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. A
+        liquam enim lectus, blandit vel efficitur vitae, lacinia sit amet ligula.
+        Donec et posuere erat. Aenean porta non eros ac consequat. Phasellus ultrices ac diam id euismod.
+        Curabitur vel nulla eu metus scelerisque fringilla a vel ligula. Phasellus orci leo, blandit sit amet turpis non, ullamcorper feugiat ante.
+        Quisque id ante posuere, viverra nunc sit amet, finibus dui. Nunc consequat mauris et ante auctor porttitor.
+        Nullam in libero eu lacus venenatis imperdiet ut ac nunc. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+
+        Donec feugiat mauris eget enim iaculis, ut molestie enim tempor. Morbi ut lectus vulputate, aliquet ante non, elementum est.
+        Praesent consequat justo sit amet sollicitudin volutpat. Fusce semper a dui ac tincidunt.
+        Donec rutrum eleifend neque eget ornare. Proin vestibulum mollis dolor vel posuere.
+        Nulla porttitor posuere dolor, quis ullamcorper augue. Maecenas vel eros maximus, dictum ex vel, efficitur tortor.
+        Ut vitae luctus justo. Vestibulum vel lorem id erat sodales mollis. Nunc quam purus, volutpat pulvinar tincidunt eget, imperdiet nec enim.
+        Morbi condimentum, risus nec vestibulum porta, metus nunc lacinia enim, in condimentum leo ipsum in lectus.
+        Fusce congue, mi sed porttitor rutrum, dui diam scelerisque orci, vel gravida enim felis eu est.
+        Duis volutpat euismod turpis, ut pulvinar libero aliquam ac.
+
+        Duis non sodales mauris. Morbi dolor metus, eleifend in neque vitae, mollis interdum enim.
+        Donec nisl diam, commodo vel augue ut, fringilla euismod justo. Suspendisse volutpat sagittis bibendum.
+        Pellentesque pellentesque ipsum sit amet tincidunt sollicitudin.
+        Etiam elit enim, imperdiet quis accumsan sagittis, auctor a risus.
+        Nulla lacinia, dui ut varius sollicitudin, nibh magna condimentum dolor, vitae eleifend urna elit ut velit.
+        Sed pellentesque blandit turpis. </string>
+
+    <string name="disclaimer_main_body"> THIS IS A DISCLAIMER, EVERYONE WHO IS USING THIS APPLICATION SHOULD BE UNDER 18 YEARS OLD ELSE WHAT ARE YOU DOING PLAYING A JIGGSAW PUZZLE GAME </string>
+    <string name="foto1_discription"> HERE IS A DISCRIPTION FOR THE PHOTO
+        Duis non sodales mauris. Morbi dolor metus, eleifend in neque vitae, mollis interdum enim.
+        Donec nisl diam, commodo vel augue ut, fringilla euismod justo. Suspendisse volutpat sagittis bibendum.
+        Pellentesque pellentesque ipsum sit amet tincidunt sollicitudin.
+        Etiam elit enim, imperdiet quis accumsan sagittis, auctor a risus.
+        Nulla lacinia, dui ut varius sollicitudin, nibh magna condimentum dolor, vitae eleifend urna elit ut velit.
+        Sed pellentesque blandit turpis. Morbi dolor metus, eleifend in neque vitae, mollis interdum enim.
+        Donec nisl diam, commodo vel augue ut, fringilla euismod justo. Suspendisse volutpat sagittis bibendum.
+        Pellentesque pellentesque ipsum sit amet tincidunt sollicitudin.
+        Etiam elit enim, imperdiet quis accumsan sagittis, auctor a risus.
+        Nulla lacinia, dui ut varius sollicitudin, nibh magna condimentum dolor, vitae eleifend urna elit ut velit.
+        Sed pellentesque blandit turpis. Morbi dolor metus, eleifend in neque vitae, mollis interdum enim.
+        Donec nisl diam, commodo vel augue ut, fringilla euismod justo. Suspendisse volutpat sagittis bibendum.
+        Pellentesque pellentesque ipsum sit amet tincidunt sollicitudin.
+        Etiam elit enim, imperdiet quis accumsan sagittis, auctor a risus.
+        Nulla lacinia, dui ut varius sollicitudin, nibh magna condimentum dolor, vitae eleifend urna elit ut velit.
+        Sed pellentesque blandit turpis. Morbi dolor metus, eleifend in neque vitae, mollis interdum enim.
+        Donec nisl diam, commodo vel augue ut, fringilla euismod justo. Suspendisse volutpat sagittis bibendum.
+        Pellentesque pellentesque ipsum sit amet tincidunt sollicitudin.sl
+        Etiam elit enim, imperdiet quis accumsan sagittis, auctor a risus.
+        Nulla lacinia, dui ut varius sollicitudin, nibh magna condimentum dolor, vitae eleifend urna elit ut velit.
+        Sed pellentesque blandit turpis.
+    </string>
+
+    <string name="disclaimer_button_name">Disclaimer</string>
+    <string name="privacy_policy_button">Privacy Policy</string>
+
+    <string name="title_disclaimer">DISCLAIMER</string>
+    <string name="title_privacy_policy">PRIVACY POLICY</string>
+    <string name="niveli_pare">First Level</string>
+    <string name="niveli_dyte">Second Level</string>
+    <string name="niveli_trete">Third Level</string>
+    <string name="foto1">Here is some information about foto 1, hope you enjoy your time, goodbye</string>
+    <string name="title_activity_photo_discription" translatable="false">ScrollingActivity</string>
+
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="foto1.jpg" translatable="false"> This is a description for the first picture of the project hopefully it comes up the first time</string>
+    <string name="level_button_name">Level</string>
+
+    <string-array name="photos_description">
+        <item>foto1.jpg|Description for the first photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto2.jpg|Description for the SECOND PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+
+        <item>foto3.jpg|Description for the third photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto4.jpg|Description for the fourth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+
+        <item>foto5.jpg|Description for the fifth photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto6.jpg|Description for the sixth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+        <item>foto7.jpg|Description for the seventh photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto8.jpg|Description for the eighth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+        <item>foto9.jpg|Description for the ninth photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto10.jpg|Description for the tenth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+
+        <item>foto11.jpg|Description for the eleventh photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto12.jpg|Description for the twelveth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+
+        <item>foto13.jpg|Description for the thirteenth photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto14.jpg|Description for the fourteenth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+        <item>foto15.jpg|Description for the fifteenth photo is here maybe it should be a little bit longer than this one is right now.</item>
+        <item>foto16.jpg|Description for the sixteenth PHOTO trying to change the description is a lil different from the first one bye!</item>
+
+
+
+
+    </string-array>
+
+
+    <integer name="level_data" translatable="false">1</integer>
+
+</resources>

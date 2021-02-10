@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name"> Titull Aplikacioni ne Shqip</string>
+    <string name="policy_text">  KETU DUHET TE JETE VERSIONI SHQIP I POLICY TEXT QE ZAKONISHT DUHET TE JETE PAK I GJATE PO NUK E KAM IDENE KESHTU QE FLAS KOT.</string>
+    <string name="disclaimer_main_body"> EDHE KJO ESHTE DISLAIMER NE SHQIP DUHET TE JETE CIK E GJATE POR PRAP PO FLAS KOT SE NUK E KAM IDENE SE SI DUKET NJE DISCLAIMER NE SHQIP.</string>
+    <string name="foto1_discription">  KTU DUHET NJE PERSHKRIM I FOTOS SE MESIPERMER</string>
+
+
+    <string name="disclaimer_button_name">Disclaimer</string>
+    <string name="privacy_policy_button">Privacy Policy</string>
+
+    <string name="title_disclaimer">DISCLAIMER</string>
+    <string name="title_privacy_policy">PRICAVY POLICY</string>
+    <string name="level_button_name">Niveli</string>
+    <string name="foto1">Ktu duhet te vendos pak informacion mbi foton e mesiperme, kalofshi nje dite te mbare.</string>
+    <string name="niveli_pare">Niveli pare</string>
+    <string name="niveli_dyte">Niveli dyte</string>
+    <string name="niveli_trete">Niveli trete</string>
+
+
+
+</resources>
