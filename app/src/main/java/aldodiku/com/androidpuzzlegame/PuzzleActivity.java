@@ -56,7 +56,7 @@ public class PuzzleActivity extends AppCompatActivity {
         mCurrentPhotoUri = intent.getStringExtra("mCurrentPhotoUri");
 
 
-
+        // adding some comments to see if the github updates these
 
 
         // run image related code after the view was laid out
